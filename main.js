@@ -329,7 +329,7 @@ const menus = {
      "2026-09-15": {
         title: "Udang Saus Tiram",
 
-        image: "Image/Udang Saus Tiram.jpeg",
+        image: "Image/Udang Saus.jpeg",
 
         foods: [
             "Nasi Putih",
