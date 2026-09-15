@@ -297,7 +297,7 @@ const menus = {
      "2026-09-14": {
         title: "Chicken Grill Saus BBQ",
 
-        image: "Image/Roti Bakar Strawbery.jpeg",
+        image: "Image/Ayam Grill.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -329,7 +329,7 @@ const menus = {
      "2026-09-15": {
         title: "Udang Saus Tiram",
 
-        image: "Image/Roti Bakar Strawbery.jpeg",
+        image: "Image/Udang Saus Tiram.jpeg",
 
         foods: [
             "Nasi Putih",
