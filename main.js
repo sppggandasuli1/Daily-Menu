@@ -294,6 +294,70 @@ const menus = {
         }
     },
 
+     "2026-09-14": {
+        title: "Chicken Grill Saus BBQ",
+
+        image: "Image/Roti Bakar Strawbery.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Chicken Grill Saus BBQ",
+            "Tahu Kremes",
+            "Jagung, Wortel",
+            "Kelengkeng"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "628,4 kkal",
+                protein: "27,4 g",
+                Lemak: "17,1 g",
+                Karbohidrat: "90,4 g",
+                Serat: "4,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "524,4 kkal",
+                protein: "25,5 g",
+                Lemak: "16,9 g",
+                Karbohidrat: "67,5 g",
+                Serat: "4,6 g"
+            }
+        }
+    },
+
+     "2026-09-15": {
+        title: "Udang Saus Tiram",
+
+        image: "Image/Roti Bakar Strawbery.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Udang Saus Tiram, Brocoli (alergi : ayam saus tiram)",
+            "Tahu Bakso",
+            "Tumis Kembang Kol, Jagung",
+            "Semangka Kuning"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "603,3 kkal",
+                protein: "24,4 g",
+                Lemak: "19,4 g",
+                Karbohidrat: "83,2 g",
+                Serat: "4,1 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "499,3 kkal",
+                protein: "22,4 g",
+                Lemak: "19,4 g",
+                Karbohidrat: "83,2 g",
+                Serat: "4,1 g"
+            }
+        }
+    },
+
 };
 
 
@@ -303,7 +367,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-14T00:00:00");
+    new Date("2026-09-15T00:00:00");
 
 
 // ========================================
