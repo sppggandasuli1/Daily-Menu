@@ -358,6 +358,70 @@ const menus = {
         }
     },
 
+     "2026-09-16": {
+        title: "Chicken Katsu Mentai",
+
+        image: "Image/Ayam Mentai.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Chicken Katsu Mentai",
+            "Bola Bola Tempe",
+            "Mix Vegetables",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "698,2 kkal",
+                protein: "32,8 g",
+                Lemak: "22,4 g",
+                Karbohidrat: "91,2 g",
+                Serat: "4,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "594,2 kkal",
+                protein: "30,9 g",
+                Lemak: "22,2 g",
+                Karbohidrat: "68,3 g",
+                Serat: "4,4 g"
+            }
+        }
+    },
+
+     "2026-09-17": {
+        title: "Bistik Ayam",
+
+        image: "Image/Gelantin Ayam.jpeg",
+
+        foods: [
+            "Kentang Goreng (3B Nasi Putih)",
+            "Bistik Ayam",
+            "Tempe Tepung",
+            "Buncis Wortel Rebus",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "607,6 kkal",
+                protein: "30,5 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "75,3 g",
+                Serat: "6,2 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "579,7 kkal",
+                protein: "29,9 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "68,8 g",
+                Serat: "5,8 g"
+            }
+        }
+    },
+
 };
 
 
@@ -367,7 +431,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-15T00:00:00");
+    new Date("2026-09-17T00:00:00");
 
 
 // ========================================
