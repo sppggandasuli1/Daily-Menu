@@ -422,6 +422,39 @@ const menus = {
         }
     },
 
+     "2026-09-18": {
+        title: "Telur Bumbu Kuning",
+
+        image: "Image/Telur Bumbu Kuning.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Telur Bumbu Kuning",
+            "Orek tempe kering",
+            "Tumis pokcoy, wortel",
+            "Pisang cavendish"
+"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: " 615,8 kkal",
+                protein: "24,1 g",
+                Lemak: " 19,9 g",
+                Karbohidrat: " 89,6 g",
+                Serat: " 7,1 g"
+            },
+
+            "Porsi Kecil": {
+                energi: " 511,8 kkal",
+                protein: " 22,2 g",
+                Lemak: "19,7 g",
+                Karbohidrat: "66,7 g",
+                Serat: "6,9 g"
+            }
+        }
+    },
+
 };
 
 
@@ -431,7 +464,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-17T00:00:00");
+    new Date("2026-09-18T00:00:00");
 
 
 // ========================================
