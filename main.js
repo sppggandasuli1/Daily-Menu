@@ -422,34 +422,34 @@ const menus = {
         }
     },
 
-     "2026-09-18": {
-        title: "Telur Bumbu Kuning",
+     "2026-09-17": {
+        title: "Bistik Ayam",
 
-        image: "Image/Telur Bumbu Kuning.jpeg",
+        image: "Image/Gelantin Ayam.jpeg",
 
         foods: [
-            "Nasi Putih",
-            "Telur Bumbu Kuning",
-            "Orek tempe kering",
-            "Tumis pokcoy, wortel",
-            "Pisang cavendish"
+            "Kentang Goreng (3B Nasi Putih)",
+            "Bistik Ayam",
+            "Tempe Tepung",
+            "Buncis Wortel Rebus",
+            "Melon"
         ],
 
         nutrition: {
             "Porsi Besar": {
-                energi: " 615,8 kkal",
-                protein: "24,1 g",
-                Lemak: " 19,9 g",
-                Karbohidrat: " 89,6 g",
-                Serat: " 7,1 g"
+                energi: "607,6 kkal",
+                protein: "30,5 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "75,3 g",
+                Serat: "6,2 g"
             },
 
             "Porsi Kecil": {
-                energi: " 511,8 kkal",
-                protein: " 22,2 g",
-                Lemak: "19,7 g",
-                Karbohidrat: "66,7 g",
-                Serat: "6,9 g"
+                energi: "579,7 kkal",
+                protein: "29,9 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "68,8 g",
+                Serat: "5,8 g"
             }
         }
     },
