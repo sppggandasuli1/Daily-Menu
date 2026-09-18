@@ -433,7 +433,6 @@ const menus = {
             "Orek tempe kering",
             "Tumis pokcoy, wortel",
             "Pisang cavendish"
-"
         ],
 
         nutrition: {
