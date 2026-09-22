@@ -489,7 +489,7 @@ const menus = {
      "2026-09-22": {
         title: "Bakso Crispy",
 
-        image: "Image/.jpeg",
+        image: "Image/Bakso Crispy.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -501,19 +501,19 @@ const menus = {
 
         nutrition: {
             "Porsi Besar": {
-                energi: "615,8 kkal",
-                protein: "24,1 g",
-                Lemak: "19,9 g",
-                Karbohidrat: "89,6 g",
-                Serat: "7,1 g"
+                energi: "688,1 kkal",
+                protein: "28,7 g",
+                Lemak: "25,6 g",
+                Karbohidrat: "87,1 g",
+                Serat: "4,3 g"
             },
 
             "Porsi Kecil": {
-                energi: "511,8 kkal",
-                protein: "22,2 g",
-                Lemak: "19,7 g",
-                Karbohidrat: "66,7 g",
-                Serat: "6,9 g"
+                energi: "584,1 kkal",
+                protein: "26,7 g",
+                Lemak: "25,5 g",
+                Karbohidrat: "64,2 g",
+                Serat: "4,1 g"
             }
         }
     },
