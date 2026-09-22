@@ -550,6 +550,37 @@ const menus = {
         }
     },
 
+    "2026-09-24": {
+        title: "Odeng Ayam",
+
+        image: "Image/Bakso Crispy.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Odeng Ayam",
+            "Miso Soup Tahu",
+            "Mix Vegetable",
+            "Anggur Hijau"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "688,1 kkal",
+                protein: "28,7 g",
+                Lemak: "25,6 g",
+                Karbohidrat: "87,1 g",
+                Serat: "4,3 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "584,1 kkal",
+                protein: "26,7 g",
+                Lemak: "25,5 g",
+                Karbohidrat: "64,2 g",
+                Serat: "4,1 g"
+            }
+        }
+    },
 
 };
 
