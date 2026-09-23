@@ -521,7 +521,7 @@ const menus = {
     "2026-09-23": {
         title: "Odeng Ayam",
 
-        image: "Image/Bakso Crispy.jpeg",
+        image: "Image/Odeng Ayam.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -551,16 +551,16 @@ const menus = {
     },
 
     "2026-09-24": {
-        title: "Odeng Ayam",
+        title: "Kue Cantk Manis",
 
         image: "Image/Odeng Ayam.jpeg",
 
         foods: [
-            "Nasi Putih",
-            "Odeng Ayam",
-            "Miso Soup Tahu",
-            "Mix Vegetable",
-            "Anggur Hijau"
+            "Kue Cantik Manis",
+            "Telur Rebus Goreng",
+            "Edamame",
+            "Cream Soup Sayur",
+            "Melon"
         ],
 
         nutrition: {
