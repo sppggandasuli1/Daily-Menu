@@ -553,7 +553,7 @@ const menus = {
     "2026-09-24": {
         title: "Odeng Ayam",
 
-        image: "Image/Bakso Crispy.jpeg",
+        image: "Image/Odeng Ayam.jpeg",
 
         foods: [
             "Nasi Putih",
