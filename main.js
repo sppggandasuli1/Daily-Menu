@@ -582,6 +582,38 @@ const menus = {
         }
     },
 
+     "2026-09-25": {
+        title: "Kue Cantk Manis/Odading",
+
+        image: "Image/Odading.jpeg",
+
+        foods: [
+            "Kue Cantik Manis/Odading",
+            "Telur Rebus Goreng",
+            "Edamame",
+            "Cream Soup Sayur",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "606,1 kkal",
+                protein: "23 g",
+                Lemak: "17,8 g",
+                Karbohidrat: "92,2 g",
+                Serat: "4,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "560 kkal",
+                protein: "20,9 g",
+                Lemak: "16,9 g",
+                Karbohidrat: "84,1 g",
+                Serat: "4,1 g"
+            }
+        }
+    },
+
 };
 
 
@@ -591,7 +623,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-22T00:00:00");
+    new Date("2026-09-24T00:00:00");
 
 
 // ========================================
