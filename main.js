@@ -565,18 +565,18 @@ const menus = {
 
         nutrition: {
             "Porsi Besar": {
-                energi: "688,1 kkal",
-                protein: "28,7 g",
-                Lemak: "25,6 g",
-                Karbohidrat: "87,1 g",
-                Serat: "4,3 g"
+                energi: "606,1 kkal",
+                protein: "23 g",
+                Lemak: "17,8 g",
+                Karbohidrat: "92,2 g",
+                Serat: "4,6 g"
             },
 
             "Porsi Kecil": {
-                energi: "584,1 kkal",
-                protein: "26,7 g",
-                Lemak: "25,5 g",
-                Karbohidrat: "64,2 g",
+                energi: "560 kkal",
+                protein: "20,9 g",
+                Lemak: "16,9 g",
+                Karbohidrat: "84,1 g",
                 Serat: "4,1 g"
             }
         }
