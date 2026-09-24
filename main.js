@@ -551,12 +551,12 @@ const menus = {
     },
 
     "2026-09-24": {
-        title: "Kue Cantk Manis",
+        title: "Kue Cantk Manis/Odading",
 
-        image: "Image/Kue Cantik Manis.jpeg",
+        image: "Image/Odading.jpeg",
 
         foods: [
-            "Kue Cantik Manis",
+            "Kue Cantik Manis/Odading",
             "Telur Rebus Goreng",
             "Edamame",
             "Cream Soup Sayur",
