@@ -583,33 +583,65 @@ const menus = {
     },
 
      "2026-09-25": {
-        title: "Kue Cantk Manis/Odading",
+        title: "Ayam Woku",
 
-        image: "Image/Odading.jpeg",
+        image: "Image/Ayam Woku.jpeg",
 
         foods: [
-            "Kue Cantik Manis/Odading",
-            "Telur Rebus Goreng",
-            "Edamame",
-            "Cream Soup Sayur",
-            "Melon"
+            "Nasi Putih",
+            "Ayam Woku",
+            "Orek Tempe Kering",
+            "Tumis Kol Wortel",
+            "Pisang"
         ],
 
         nutrition: {
             "Porsi Besar": {
-                energi: "606,1 kkal",
-                protein: "23 g",
-                Lemak: "17,8 g",
-                Karbohidrat: "92,2 g",
-                Serat: "4,6 g"
+                energi: "636,1 kkal",
+                protein: "29,3 g",
+                Lemak: "19,5 g",
+                Karbohidrat: "88,3 g",
+                Serat: "5,8 g"
             },
 
             "Porsi Kecil": {
-                energi: "560 kkal",
-                protein: "20,9 g",
-                Lemak: "16,9 g",
-                Karbohidrat: "84,1 g",
-                Serat: "4,1 g"
+                energi: "531,8 kkal",
+                protein: "27,4 g",
+                Lemak: "19,4 g",
+                Karbohidrat: "65,4 g",
+                Serat: "5,5 g"
+            }
+        }
+    },
+
+    "2026-09-26": {
+        title: "Ayam Woku",
+
+        image: "Image/Ayam Woku.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Woku",
+            "Orek Tempe Kering",
+            "Tumis Kol Wortel",
+            "Pisang"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "636,1 kkal",
+                protein: "29,3 g",
+                Lemak: "19,5 g",
+                Karbohidrat: "88,3 g",
+                Serat: "5,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "531,8 kkal",
+                protein: "27,4 g",
+                Lemak: "19,4 g",
+                Karbohidrat: "65,4 g",
+                Serat: "5,5 g"
             }
         }
     },
@@ -623,7 +655,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-24T00:00:00");
+    new Date("2026-09-25T00:00:00");
 
 
 // ========================================
