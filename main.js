@@ -614,34 +614,34 @@ const menus = {
         }
     },
 
-    "2026-09-26": {
-        title: "Ayam Woku",
+    "2026-09-28": {
+        title: "Ayam Crispy",
 
-        image: "Image/Ayam Woku.jpeg",
+        image: "Image/Ayam Crispy.jpeg",
 
         foods: [
-            "Nasi Putih",
-            "Ayam Woku",
-            "Orek Tempe Kering",
-            "Tumis Kol Wortel",
-            "Pisang"
+            "Nasi Putih (Balita Nasi Tim)",
+            "Chicken Crispy",
+            "Tahu Asam Manis",
+            "Tumis Sawi Putih",
+            "Jeruk"
         ],
 
         nutrition: {
             "Porsi Besar": {
-                energi: "636,1 kkal",
-                protein: "29,3 g",
-                Lemak: "19,5 g",
-                Karbohidrat: "88,3 g",
-                Serat: "5,8 g"
+                energi: "656,4 kkal",
+                protein: "30 g",
+                Lemak: "22,9 g",
+                Karbohidrat: "82,2 g",
+                Serat: "4,7 g"
             },
 
             "Porsi Kecil": {
-                energi: "531,8 kkal",
-                protein: "27,4 g",
-                Lemak: "19,4 g",
-                Karbohidrat: "65,4 g",
-                Serat: "5,5 g"
+                energi: "522,4 kkal",
+                protein: "25,2 g",
+                Lemak: "20,8 g",
+                Karbohidrat: "59,1 g",
+                Serat: "4,2 g"
             }
         }
     },
@@ -655,7 +655,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-25T00:00:00");
+    new Date("2026-09-28T00:00:00");
 
 
 // ========================================
