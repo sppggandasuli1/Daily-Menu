@@ -617,7 +617,7 @@ const menus = {
     "2026-09-28": {
         title: "Ayam Crispy",
 
-        image: "Image/Ayam Crispy.jpeg",
+        image: "Image/Chicken Crispy.jpeg",
 
         foods: [
             "Nasi Putih (Balita Nasi Tim)",
