@@ -646,6 +646,38 @@ const menus = {
         }
     },
 
+      "2026-09-29": {
+        title: "Ayam Kecap",
+
+        image: "Image/Ayam Kecap.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Kecap",
+            "Tempe Tepung",
+            "Capcay Bakso",
+            "Apel"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "687,6 kkal",
+                protein: "32,8 g",
+                Lemak: "21,8 g",
+                Karbohidrat: "90,3 g",
+                Serat: "4,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "547,7 kkal",
+                protein: "28,7 g",
+                Lemak: "20,6 g",
+                Karbohidrat: "63 g",
+                Serat: "3,9 g"
+            }
+        }
+    },
+
 };
 
 
@@ -655,7 +687,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-28T00:00:00");
+    new Date("2026-09-29T00:00:00");
 
 
 // ========================================
