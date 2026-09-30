@@ -688,7 +688,7 @@ const menus = {
             "Telur Balado (Porsi Besar), Telur Semur (Porsi Kecil)",
             "Tahu Kremes",
             "Tumis Putren + Pakcoy",
-            "Melon"
+            "Melon",
             "Susu Plain"
         ],
 
