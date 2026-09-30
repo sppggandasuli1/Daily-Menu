@@ -677,6 +677,39 @@ const menus = {
             }
         }
     },
+    
+     "2026-09-30": {
+        title: "Telur Balado",
+
+        image: "Image/Telur Balado.jpeg",
+
+        foods: [
+            "Nasi Putih (Balita Nasi Tim)",
+            "Telur Balado (Porsi Besar), Telur Semur (Porsi Kecil)",
+            "Tahu Kremes",
+            "Tumis Putren + Pakcoy",
+            "Melon"
+            "Susu Plain"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "606 kkal",
+                protein: "22,3 g",
+                Lemak: "19,5 g",
+                Karbohidrat: "84,9 g",
+                Serat: "2,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "502 kkal",
+                protein: "20,4 g",
+                Lemak: "19,3 g",
+                Karbohidrat: "62 g",
+                Serat: "2,3 g"
+            }
+        }
+    },
 
 };
 
@@ -687,7 +720,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-29T00:00:00");
+    new Date("2026-09-30T00:00:00");
 
 
 // ========================================
