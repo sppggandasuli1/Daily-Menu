@@ -711,6 +711,38 @@ const menus = {
         }
     },
 
+     "2026-10-01": {
+        title: "Telur Balado",
+
+        image: "Image/Telur Balado.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Ketumbar",
+            "Tahu Sumedang",
+            "Sayur Oyong Wortel",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "604,4 kkal",
+                protein: "28 g",
+                Lemak: "21,5 g",
+                Karbohidrat: "74,7 g",
+                Serat: "5,2 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "478,5 kkal",
+                protein: "24 g",
+                Lemak: "19,9 g",
+                Karbohidrat: "51,6 g",
+                Serat: "4,8 g"
+            }
+        }
+    },
+
 };
 
 
