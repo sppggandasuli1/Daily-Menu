@@ -743,6 +743,38 @@ const menus = {
         }
     },
 
+    "2026-10-02": {
+        title: "Chicken Katsu",
+
+        image: "Image/Chicken Katsu.jpeg",
+
+        foods: [
+            "Nasi Putih(Balita Nasi Tim)",
+            "Chicken Katsu",
+            "Tempe Orek Kering",
+            "Tumis Kembang Kol, Wortel",
+            "Anggur Hijau"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "652,6 kkal",
+                protein: "31,5 g",
+                Lemak: "20 g",
+                Karbohidrat: "87,1 g",
+                Serat: "4,9 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "548,6 kkal",
+                protein: "29,6 g",
+                Lemak: "19,8 g",
+                Karbohidrat: "64,3 g",
+                Serat: "4,6 g"
+            }
+        }
+    },
+
 };
 
 
@@ -752,7 +784,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-09-30T00:00:00");
+    new Date("2026-10-01T00:00:00");
 
 
 // ========================================
