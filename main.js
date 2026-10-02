@@ -1038,7 +1038,7 @@ function createDateList() {
     // JavaScript months start from 0
     // January = 0
     // September = 8
-    const month = 8;
+    const month = 9;
 
 
     // Get number of days in September
