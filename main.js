@@ -775,6 +775,71 @@ const menus = {
         }
     },
 
+    "2026-10-05": {
+        title: "Ayam Goreng Bawang Putih",
+
+        image: "Image/Ayam Bawang Putih.jpeg",
+
+        foods: [
+            "Nasi Putih(Balita Nasi Tim)",
+            "Ayam Goreng Bawang Putih",
+            "Tempe Goreng Ketumbar",
+            "Sayur SOp",
+            "Apel"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "637,4 kkal",
+                protein: "30,2 g",
+                Lemak: "21,1 g",
+                Karbohidrat: "82,9 g",
+                Serat: "5,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "519,2 kkal",
+                protein: "27 g",
+                Lemak: "20 g",
+                Karbohidrat: "60 g",
+                Serat: "5,7 g"
+            }
+        }
+    },
+
+    "2026-10-06": {
+        title: "Chicken Pop",
+
+        image: "Image/Ayam Pop.jpeg",
+
+        foods: [
+            "Nasi Putih(Balita Nasi Tim)",
+            "Chicken Pop",
+            "Tahu Cabe Garam",
+            "Tumis sawi putih, Wortel",
+            "Selada",
+            "Kelengkeng"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "602,4 kkal",
+                protein: "25,8 g",
+                Lemak: "19,1 g",
+                Karbohidrat: "82,2 g",
+                Serat: "5,2 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "498,4 kkal",
+                protein: "23,9 g",
+                Lemak: "18,9 g",
+                Karbohidrat: "59,3 g",
+                Serat: "4,9 g"
+            }
+        }
+    },
+
 };
 
 
@@ -784,7 +849,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-01T00:00:00");
+    new Date("2026-10-06T00:00:00");
 
 
 // ========================================
