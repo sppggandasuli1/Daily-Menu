@@ -840,7 +840,7 @@ const menus = {
         }
     },
 
-    "2026-10-08": {
+    "2026-10-07": {
         title: "Hotdog",
 
         image: "Image/Hotdog.jpeg",
@@ -880,7 +880,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-06T00:00:00");
+    new Date("2026-10-07T00:00:00");
 
 
 // ========================================
