@@ -807,7 +807,7 @@ const menus = {
         }
     },
 
-    "2026-10-06": {
+      "2026-10-06": {
         title: "Chicken Pop",
 
         image: "Image/Ayam Pop.jpeg",
@@ -840,8 +840,39 @@ const menus = {
         }
     },
 
-};
+    "2026-10-08": {
+        title: "Hotdog",
 
+        image: "Image/Hotdog.jpeg",
+
+        foods: [
+            "Roti Hotdog",
+            "Chicken Katsu Strip",
+            "Tahu Krispi",
+            "Timun + Tomat (3B AcarKuning Timun Wortel)",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "640,3 kkal",
+                protein: "30,9 g",
+                Lemak: "22,6 g",
+                Karbohidrat: "80,9 g",
+                Serat: "6,9 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "509,2 kkal",
+                protein: "26,8 g",
+                Lemak: "21.5 g",
+                Karbohidrat: "54,8 g",
+                Serat: "5,4 g"
+            }
+        }
+    },
+
+};
 
 // ========================================
 // CURRENT DATE
