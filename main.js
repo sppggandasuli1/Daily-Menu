@@ -872,6 +872,71 @@ const menus = {
         }
     },
 
+     "2026-10-08": {
+        title: "Lele Crispy",
+
+        image: "Image/Lele Crispy.jpeg",
+
+        foods: [
+            "Nasi Putih (Balita Nasi Tim)",
+            "Lele Filet Crispy (Porsi Besar) Ayam Goreng (Porsi Kecil)",
+            "Tempe Orek",
+            "Tumis Putren Wortel",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "611,4 kkal",
+                protein: "26,8 g",
+                Lemak: "16,2 g",
+                Karbohidrat: "90,3 g",
+                Serat: "3,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "480,8 kkal",
+                protein: "27 g",
+                Lemak: "19,1 g",
+                Karbohidrat: "51,4 g",
+                Serat: "4 g"
+            }
+        }
+    },
+
+     "2026-10-09": {
+        title: "Bistik Ayam",
+
+        image: "Image/Bistik Ayam.jpeg",
+
+        foods: [
+            "French Fries (3B Nasi)",
+            "Bistik Ayam",
+            "Tempe Crispy",
+            "Wortel + Buncis Rebus",
+            "Pisang"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "601,8 kkal",
+                protein: "29,1 g",
+                Lemak: "19,2 g",
+                Karbohidrat: "82,5 g",
+                Serat: "6,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "524,9 kkal",
+                protein: "24,6 g",
+                Lemak: "17,6 g",
+                Karbohidrat: "70,2 g",
+                Serat: "5,7 g"
+            }
+        }
+    },
+
+
 };
 
 // ========================================
@@ -880,7 +945,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-07T00:00:00");
+    new Date("2026-10-09T00:00:00");
 
 
 // ========================================
