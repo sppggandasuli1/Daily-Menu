@@ -936,6 +936,70 @@ const menus = {
         }
     },
 
+      "2026-10-12": {
+        title: "Bolu Kukus Toping Buah",
+
+        image: "Image/Jasuke.jpeg",
+
+        foods: [
+            "Bolu Kukus Toping Buah",
+            "Telur Goreng",
+            "Edamame",
+            "Mix Vegetable",
+            "Jasuke",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "624,8 kkal",
+                protein: "30,4 g",
+                Lemak: "15,3 g",
+                Karbohidrat: "96,3 g",
+                Serat: "7,1 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "577,6 kkal",
+                protein: "29 g",
+                Lemak: "15,1 g",
+                Karbohidrat: "86,1 g",
+                Serat: "6,6 g"
+            }
+        }
+    },
+
+      "2026-10-13": {
+        title: "Ayam Bumbu Rendang",
+
+        image: "Image/Ayam Bumbu Rendang.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Bumbu Rendang",
+            "Tahu Goreng Marinasi",
+            "Sayur Nangka Tanpa Santan",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "601,8 kkal",
+                protein: "29,1 g",
+                Lemak: "19,2 g",
+                Karbohidrat: "82,5 g",
+                Serat: "6,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "524,9 kkal",
+                protein: "24,6 g",
+                Lemak: "17,6 g",
+                Karbohidrat: "70,2 g",
+                Serat: "5,7 g"
+            }
+        }
+    },
 
 };
 
@@ -945,7 +1009,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-09T00:00:00");
+    new Date("2026-10-12T00:00:00");
 
 
 // ========================================
