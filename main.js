@@ -1001,6 +1001,38 @@ const menus = {
         }
     },
 
+    "2026-10-14": {
+        title: "Chicken Filet Crispy Saus BBQ",
+
+        image: "Image/Chicken Filet Crispy Saus BBQ.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Chicken Filet Crispy Saus BBQ",
+            "Tahu Bacem",
+            "Wortel + Buncis Rebus",
+            "Apel"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "609,7 kkal",
+                protein: "26,4 g",
+                Lemak: "23,4 g",
+                Karbohidrat: "74,4 g",
+                Serat: "4,4 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "500,3 kkal",
+                protein: "24,2 g",
+                Lemak: "13,3 g",
+                Karbohidrat: "50,5 g",
+                Serat: "4,0 g"
+            }
+        }
+    },
+
 };
 
 // ========================================
