@@ -984,19 +984,19 @@ const menus = {
 
         nutrition: {
             "Porsi Besar": {
-                energi: "601,8 kkal",
-                protein: "29,1 g",
-                Lemak: "19,2 g",
-                Karbohidrat: "82,5 g",
-                Serat: "6,7 g"
+                energi: "609,7 kkal",
+                protein: "26,4 g",
+                Lemak: "23,4 g",
+                Karbohidrat: "74,4 g",
+                Serat: "4,4 g"
             },
 
             "Porsi Kecil": {
-                energi: "524,9 kkal",
-                protein: "24,6 g",
-                Lemak: "17,6 g",
-                Karbohidrat: "70,2 g",
-                Serat: "5,7 g"
+                energi: "500,3 kkal",
+                protein: "24,2 g",
+                Lemak: "13,3 g",
+                Karbohidrat: "50,5 g",
+                Serat: "4,0 g"
             }
         }
     },
@@ -1009,7 +1009,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-12T00:00:00");
+    new Date("2026-10-13T00:00:00");
 
 
 // ========================================
