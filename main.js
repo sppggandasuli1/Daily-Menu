@@ -1004,7 +1004,7 @@ const menus = {
     "2026-10-14": {
         title: "Chicken Filet Crispy Saus BBQ",
 
-        image: "Image/Chicken Filet Crispy Saus BBQ.jpeg",
+        image: "Image/Chicken Filet Saus BBQ.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -1029,6 +1029,38 @@ const menus = {
                 Lemak: "13,3 g",
                 Karbohidrat: "50,5 g",
                 Serat: "4,0 g"
+            }
+        }
+    },
+
+     "2026-10-15": {
+        title: "Sate Ayam Bumbu Kacang",
+
+        image: "Image/Sate Ayam Bumbu Kacang.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Sate Ayam Bumbu Kacang",
+            "Tahu Sumedang",
+            "Acar Kuning Timun",
+            "Kelengkeng"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "605,4 kkal",
+                protein: "26,3 g",
+                Lemak: "23,2 g",
+                Karbohidrat: "75 g",
+                Serat: "5,3 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "501,4 kkal",
+                protein: "24,4 g",
+                Lemak: "23 g",
+                Karbohidrat: "52,1 g",
+                Serat: "5,1 g"
             }
         }
     },
