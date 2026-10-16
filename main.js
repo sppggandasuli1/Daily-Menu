@@ -1065,6 +1065,38 @@ const menus = {
         }
     },
 
+       "2026-10-16": {
+        title: "Sandwich Isi Patty Sapi,
+
+        image: "Image/Sandwich Isi Patty Sapi.jpeg",
+
+        foods: [
+            "Sandwich Isi Patty Sapi",
+            "French Fries",
+            "Edamame",
+            "Wortel _ Buncis Rebus",
+            "Semangka"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "644,2 kkal",
+                protein: "33,2 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "81,4 g",
+                Serat: "6,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "511,8 kkal",
+                protein: "22,5 g",
+                Lemak: "15,3 g",
+                Karbohidrat: "72,3 g",
+                Serat: "5,4 g"
+            }
+        }
+    },
+
 };
 
 // ========================================
@@ -1073,7 +1105,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-13T00:00:00");
+    new Date("2026-10-16T00:00:00");
 
 
 // ========================================
