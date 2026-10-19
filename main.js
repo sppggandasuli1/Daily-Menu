@@ -1097,6 +1097,70 @@ const menus = {
         }
     },
 
+      "2026-10-19": {
+        title: "Opor Ayam Susu,
+
+        image: "Image/Opor Ayam Susu.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Opor Ayam Susu",
+            "Tahu Bakso",
+            "Tumis Labu Siam",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "638,1 kkal",
+                protein: "31,6 g",
+                Lemak: "26,5 g",
+                Karbohidrat: "69,1 g",
+                Serat: "4,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "495,6 kkal",
+                protein: "26,8 g",
+                Lemak: "24,4 g",
+                Karbohidrat: "43,7 g",
+                Serat: "4,0 g"
+            }
+        }
+    },
+
+"2026-10-21": {
+        title: "Nasi Putih,
+
+        image: "Image/Opor Ayam Susu.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Opor Ayam Susu",
+            "Tahu Bakso",
+            "Tumis Labu Siam",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "638,1 kkal",
+                protein: "31,6 g",
+                Lemak: "26,5 g",
+                Karbohidrat: "69,1 g",
+                Serat: "4,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "495,6 kkal",
+                protein: "26,8 g",
+                Lemak: "24,4 g",
+                Karbohidrat: "43,7 g",
+                Serat: "4,0 g"
+            }
+        }
+    },
+
 };
 
 // ========================================
@@ -1105,7 +1169,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-16T00:00:00");
+    new Date("2026-10-19T00:00:00");
 
 
 // ========================================
