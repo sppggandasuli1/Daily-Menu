@@ -1132,11 +1132,11 @@ const menus = {
 "2026-10-21": {
         title: "Nasi Putih,
 
-        image: "Image/Opor Ayam Susu.jpeg",
+        image: "Image/Ayam Opor Susu.jpeg",
 
         foods: [
             "Nasi Putih",
-            "Opor Ayam Susu",
+            "Ayam Opor Susu",
             "Tahu Bakso",
             "Tumis Labu Siam",
             "Melon"
