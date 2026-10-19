@@ -1100,7 +1100,7 @@ const menus = {
       "2026-10-19": {
         title: "Ayam Opor Susu",
 
-        image: "Image/Opor Ayam Susu.jpeg",
+        image: "Image/Ayam Opor Susu.jpeg",
 
         foods: [
             "Nasi Putih",
