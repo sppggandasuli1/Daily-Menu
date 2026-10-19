@@ -1098,7 +1098,7 @@ const menus = {
     },
 
       "2026-10-19": {
-        title: "Opor Ayam Susu",
+        title: "Ayam Opor Susu",
 
         image: "Image/Opor Ayam Susu.jpeg",
 
