@@ -1098,7 +1098,7 @@ const menus = {
     },
 
       "2026-10-19": {
-        title: "Opor Ayam Susu,
+        title: "Opor Ayam Susu",
 
         image: "Image/Opor Ayam Susu.jpeg",
 
@@ -1130,7 +1130,7 @@ const menus = {
     },
 
 "2026-10-21": {
-        title: "Nasi Putih,
+        title: "Opor Ayam",
 
         image: "Image/Ayam Opor Susu.jpeg",
 
