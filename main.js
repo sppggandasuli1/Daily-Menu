@@ -1066,7 +1066,7 @@ const menus = {
     },
 
        "2026-10-16": {
-        title: "Sandwich Isi Patty Sapi,
+        title: "Sandwich Isi Patty Sapi",
 
         image: "Image/Sandwich Isi Patty Sapi.jpeg",
 
