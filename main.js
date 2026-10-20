@@ -1164,7 +1164,7 @@ const menus = {
     "2026-10-21": {
         title: "Telur Balado",
 
-        image: "Image/Telur Balado.jpeg",
+        image: "Image/.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -1202,7 +1202,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-19T00:00:00");
+    new Date("2026-10-20T00:00:00");
 
 
 // ========================================
