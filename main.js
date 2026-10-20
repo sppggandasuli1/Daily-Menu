@@ -1129,34 +1129,34 @@ const menus = {
         }
     },
 
-"2026-10-21": {
-        title: "Opor Ayam",
+"2026-10-20": {
+        title: "Nasi Kuning Tanpa Santan",
 
-        image: "Image/Ayam Opor Susu.jpeg",
+        image: "Image/Nasi Kuning.jpeg",
 
         foods: [
-            "Nasi Putih",
-            "Ayam Opor Susu",
-            "Tahu Bakso",
-            "Tumis Labu Siam",
-            "Melon"
+            "Nasi Kuning (Tanpa Santan)",
+            "Ayam Goreng Ketumbar",
+            "Orek Tempe Kering",
+            "Timun + Tomat",
+            "Anggur Hijau"
         ],
 
         nutrition: {
             "Porsi Besar": {
-                energi: "638,1 kkal",
-                protein: "31,6 g",
-                Lemak: "26,5 g",
-                Karbohidrat: "69,1 g",
+                energi: "640,8 kkal",
+                protein: "26,7 g",
+                Lemak: "20,1 g",
+                Karbohidrat: "89,8 g",
                 Serat: "4,6 g"
             },
 
             "Porsi Kecil": {
-                energi: "495,6 kkal",
-                protein: "26,8 g",
-                Lemak: "24,4 g",
-                Karbohidrat: "43,7 g",
-                Serat: "4,0 g"
+                energi: "515,4 kkal",
+                protein: "22,6 g",
+                Lemak: "19,2 g",
+                Karbohidrat: "65,1 g",
+                Serat: "4,1 g"
             }
         }
     },
