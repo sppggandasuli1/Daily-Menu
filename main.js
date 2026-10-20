@@ -1144,6 +1144,38 @@ const menus = {
 
         nutrition: {
             "Porsi Besar": {
+                energi: "644 kkal",
+                protein: "32,9 g",
+                Lemak: "22,1 g",
+                Karbohidrat: "79,1 g",
+                Serat: "4,0 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "517,1 kkal",
+                protein: "29 g",
+                Lemak: "21,2 g",
+                Karbohidrat: "53,9 g",
+                Serat: "3,4 g"
+            }
+        }
+    },
+
+    "2026-10-21": {
+        title: "Telur Balado",
+
+        image: "Image/Telur Balado.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Telur Balado (Porsi Kecil Semur Telur)",
+            "Tempe Tepung Crispy",
+            "Tumis Sawi Putih",
+            "Apel"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
                 energi: "640,8 kkal",
                 protein: "26,7 g",
                 Lemak: "20,1 g",
@@ -1160,6 +1192,7 @@ const menus = {
             }
         }
     },
+
 
 };
 
