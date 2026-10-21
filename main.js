@@ -1194,33 +1194,33 @@ const menus = {
     },
 
       "2026-10-22": {
-        title: "Telur Balado",
+        title: "Ayam Popcorn",
 
-        image: "Image/Nasi Kuning.jpeg",
+        image: "Image/Ayam Popcorn.jpeg",
 
         foods: [
             "Nasi Putih",
-            "Telur Balado (Porsi Kecil Semur Telur)",
-            "Tempe Tepung Crispy",
-            "Tumis Sawi Putih",
-            "Apel"
+            "Ayam Popcorn",
+            "Tahu Kremes",
+            "Wortel + Buncis Rebus",
+            "Semangka"
         ],
 
         nutrition: {
             "Porsi Besar": {
-                energi: "640,8 kkal",
-                protein: "26,7 g",
-                Lemak: "20,1 g",
-                Karbohidrat: "89,8 g",
-                Serat: "4,6 g"
+                energi: "639,7 kkal",
+                protein: "26,5 g",
+                Lemak: "19,2 g",
+                Karbohidrat: "89,5 g",
+                Serat: "3,8 g"
             },
 
             "Porsi Kecil": {
-                energi: "515,4 kkal",
-                protein: "22,6 g",
-                Lemak: "19,2 g",
+                energi: "529 kkal",
+                protein: "24,4 g",
+                Lemak: "19 g",
                 Karbohidrat: "65,1 g",
-                Serat: "4,1 g"
+                Serat: "3,2 g"
             }
         }
     },
