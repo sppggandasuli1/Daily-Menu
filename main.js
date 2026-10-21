@@ -1164,7 +1164,7 @@ const menus = {
     "2026-10-21": {
         title: "Telur Balado",
 
-        image: "Image/Telur Balado.jpeg",
+        image: "Image/Telur Balado 2.jpeg",
 
         foods: [
             "Nasi Putih",
