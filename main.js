@@ -1224,6 +1224,38 @@ const menus = {
             }
         }
     },
+
+    "2026-10-23": {
+        title: "Ayam Katsu",
+
+        image: "Image/Ayam Katsu.jpeg",
+
+        foods: [
+            "Roti Tortila (3B Nasi Putih)",
+            "Ayam Katsu",
+            "Edamame",
+            "Timun + Tomat",
+            "Apel"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "641,9 kkal",
+                protein: "35,1 g",
+                Lemak: "22,7 g",
+                Karbohidrat: "74,6 g",
+                Serat: "4,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "539,6 kkal",
+                protein: "30,2 g",
+                Lemak: "20,8 g",
+                Karbohidrat: "58,3 g",
+                Serat: "3,8 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1232,7 +1264,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-21T00:00:00");
+    new Date("2026-10-23T00:00:00");
 
 
 // ========================================
