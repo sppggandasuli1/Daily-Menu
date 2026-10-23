@@ -1256,6 +1256,38 @@ const menus = {
             }
         }
     },
+
+     "2026-10-26": {
+        title: "Ayam Serundeng",
+
+        image: "Image/Ayam Serundeng.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Serundeng",
+            "Tahu Goreng",
+            "Tumis Kacang Panjang",
+            "Buah"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "641,9 kkal",
+                protein: "35,1 g",
+                Lemak: "22,7 g",
+                Karbohidrat: "74,6 g",
+                Serat: "4,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "539,6 kkal",
+                protein: "30,2 g",
+                Lemak: "20,8 g",
+                Karbohidrat: "58,3 g",
+                Serat: "3,8 g"
+            }
+        }
+    },
 };
 
 // ========================================
