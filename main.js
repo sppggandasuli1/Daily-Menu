@@ -1288,6 +1288,39 @@ const menus = {
             }
         }
     },
+
+    "2026-10-27": {
+        title: "Bolu Pandan",
+
+        image: "Image/Bolu Pandan.jpeg",
+
+        foods: [
+            "Bolu Pandan",
+            "Wonton Goreng",
+            "Edamame",
+            "Susu",
+            "Mix Vegetables",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "672,5 kkal",
+                protein: "32,5 g",
+                Lemak: "25,5 g",
+                Karbohidrat: "79,5 g",
+                Serat: "3,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "558,5 kkal",
+                protein: "26,6 g",
+                Lemak: "22,7 g",
+                Karbohidrat: "63,1 g",
+                Serat: "2,9 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1296,7 +1329,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-23T00:00:00");
+    new Date("2026-10-26T00:00:00");
 
 
 // ========================================
