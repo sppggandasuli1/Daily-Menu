@@ -1292,15 +1292,47 @@ const menus = {
     "2026-10-27": {
         title: "Bolu Pandan",
 
-        image: "Image/Bolu Pandan.jpeg",
+        image: "Image/Bolu Kukus Pandan.jpeg",
 
         foods: [
-            "Bolu Pandan",
+            "Bolu Kukus",
             "Wonton Goreng",
             "Edamame",
             "Susu",
             "Mix Vegetables",
             "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "672,5 kkal",
+                protein: "32,5 g",
+                Lemak: "25,5 g",
+                Karbohidrat: "79,5 g",
+                Serat: "3,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "558,5 kkal",
+                protein: "26,6 g",
+                Lemak: "22,7 g",
+                Karbohidrat: "63,1 g",
+                Serat: "2,9 g"
+            }
+        }
+    },
+
+     "2026-10-28": {
+        title: "Ayam Bakar Madu",
+
+        image: "Image/Ayam Bakar Madu.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Bakar Madu",
+            "Tempe Bumbon",
+            "Capcay Sayur",
+            "Pisang"
         ],
 
         nutrition: {
@@ -1329,7 +1361,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-26T00:00:00");
+    new Date("2026-10-27T00:00:00");
 
 
 // ========================================
