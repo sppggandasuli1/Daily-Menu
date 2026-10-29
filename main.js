@@ -1353,6 +1353,38 @@ const menus = {
             }
         }
     },
+
+    "2026-10-29": {
+        title: "Dimsum",
+
+        image: "Image/Dimsum.jpeg",
+
+        foods: [
+            "French Fries",
+            "Dimsum",
+            "Tah Steam Saus Teriyaki",
+            "Wortel + Jagung Pipil rebus",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "601,5 kkal",
+                protein: "26,1 g",
+                Lemak: "25,2 g",
+                Karbohidrat: "70 g",
+                Serat: "6,2 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "537,3 kkal",
+                protein: "25,1 g",
+                Lemak: "23,1 g",
+                Karbohidrat: "59,2 g",
+                Serat: "5,5 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1361,7 +1393,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-27T00:00:00");
+    new Date("2026-10-29T00:00:00");
 
 
 // ========================================
