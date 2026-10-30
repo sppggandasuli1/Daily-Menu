@@ -1385,6 +1385,39 @@ const menus = {
             }
         }
     },
+
+     "2026-10-30": {
+        title: "Ayam Bumbu Hitam",
+
+        image: "Image/Ayam Bubu Hitam.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Bumbu Hitam Madura",
+            "Tempe Goreng",
+            "Acar Kuning Timun",
+            "Kelengkeng",
+            "Susu"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "647,9 kkal",
+                protein: "30,6 g",
+                Lemak: "23,9 g",
+                Karbohidrat: "81,1 g",
+                Serat: "6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "522,7 kkal",
+                protein: "26,7 g",
+                Lemak: "23 g",
+                Karbohidrat: "56,3 g",
+                Serat: "5,6 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1393,7 +1426,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-29T00:00:00");
+    new Date("2026-10-30T00:00:00");
 
 
 // ========================================
