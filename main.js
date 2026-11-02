@@ -1418,6 +1418,38 @@ const menus = {
             }
         }
     },
+
+    "2026-11-02": {
+        title: "Ayam Woku",
+
+        image: "Image/Ayam Woku (2).jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Woku",
+            "Tahu Tepung Crispy",
+            "Tumis Sawi Putih + Daun Bawang",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "615,5 kkal",
+                protein: "26 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "80,5 g",
+                Serat: "4,5 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "510 kkal",
+                protein: "23,9 g",
+                Lemak: "21,2 g",
+                Karbohidrat: "57,4 g",
+                Serat: "4 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1426,7 +1458,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-10-30T00:00:00");
+    new Date("2026-02-02T00:00:00");
 
 
 // ========================================
@@ -1712,7 +1744,7 @@ function createDateList() {
     // JavaScript months start from 0
     // January = 0
     // September = 8
-    const month = 9;
+    const month = 10;
 
 
     // Get number of days in September
