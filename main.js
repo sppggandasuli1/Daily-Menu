@@ -1450,6 +1450,135 @@ const menus = {
             }
         }
     },
+
+    "2026-11-04": {
+        title: "Chicken Krispi",
+
+        image: "Image/Ayam Tepung.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Chicken Krispi",
+            "Tahu Orek Kecap",
+            "Pokcoy Garlic",
+            "Kelengkeng"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "663,8 kkal",
+                protein: "30,9 g",
+                Lemak: "19,3 g",
+                Karbohidrat: "92,9 g",
+                Serat: "4,6 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "538,4 kkal",
+                protein: "26,8 g",
+                Lemak: "18,3 g",
+                Karbohidrat: "68,1 g",
+                Serat: "4 g"
+            }
+        }
+    },
+
+    "2026-11-03": {
+        title: "Ayam Kungpao",
+
+        image: "Image/Ayam Kungpao.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Kungpao",
+            "Tahu Walik Aci",
+            "Acar Kuning worte + Timun",
+            "Semangka"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "613,1 kkal",
+                protein: "27,6 g",
+                Lemak: "21,4 g",
+                Karbohidrat: "77,4 g",
+                Serat: "4,3 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "505,2 kkal",
+                protein: "25,5 g",
+                Lemak: "21,2 g",
+                Karbohidrat: "53,7 g",
+                Serat: "3,6 g"
+            }
+        }
+    },
+
+    "2026-11-05": {
+        title: "Mochi Isi Coklat Kacang",
+
+        image: "Image/Mochi.jpeg",
+
+        foods: [
+            "Mochi Isi Kacang Coklat (3B Nasi Putih)",
+            "Telur Goreng (3B telur Bumbu Kuning)",
+            "Edamame",
+            "Mix Vegetable",
+            "Anggur",
+            "Susu"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "655,3 kkal",
+                protein: "26,9 g",
+                Lemak: "23,8 g",
+                Karbohidrat: "86,1 g",
+                Serat: "4 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "527,9 kkal",
+                protein: "21,6 g",
+                Lemak: "20,1 g",
+                Karbohidrat: "67,2 g",
+                Serat: "3,1 g"
+            }
+        }
+    },
+
+    "2026-11-06": {
+        title: "Burger Ayam Katsu",
+
+        image: "Image/Burger Ayam Katsu.jpeg",
+
+        foods: [
+            "Roti Bun Burger",
+            "Chicken Katsu",
+            "Edamame",
+            "Timun, Tomat (3B Buncis)",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "605,1 kkal",
+                protein: "29,9 g",
+                Lemak: "19,6 g",
+                Karbohidrat: "76,7 g",
+                Serat: "2,3 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "479,4 kkal",
+                protein: "26 g",
+                Lemak: "18,6 g",
+                Karbohidrat: "51,8 g",
+                Serat: "1,8 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1458,7 +1587,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-11-02T00:00:00");
+    new Date("2026-11-06T00:00:00");
 
 
 // ========================================
