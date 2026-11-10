@@ -1579,6 +1579,70 @@ const menus = {
             }
         }
     },
+
+      "2026-11-10": {
+        title: "Rendang Ayam",
+
+        image: "Image/Rendang Ayam.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Rendang Ayam",
+            "Tempe Goreng Marinasi",
+            "Tumis Sawi Putih + Wortel",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "602,7 kkal",
+                protein: "31,9 g",
+                Lemak: "21,1 g",
+                Karbohidrat: "72,2 g",
+                Serat: "4,2 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "468,1 kkal",
+                protein: "27,1 g",
+                Lemak: "19 g",
+                Karbohidrat: "48,9 g",
+                Serat: "3,7 g"
+            }
+        }
+    },
+
+      "2026-11-06": {
+        title: "Kaki Naga",
+
+        image: "Image/Kaki Naga.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Kaki Naga",
+            "Tahu Kecap",
+            "Tumis Kacang Panjang + Wortel",
+            "Melon"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "616,6 kkal",
+                protein: "26,3 g",
+                Lemak: "19 g",
+                Karbohidrat: "84,7 g",
+                Serat: "3,7 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "498,3 kkal",
+                protein: "23,9 g",
+                Lemak: "18,7 g",
+                Karbohidrat: "58,5 g",
+                Serat: "2,8 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1587,7 +1651,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-11-06T00:00:00");
+    new Date("2026-11-10T00:00:00");
 
 
 // ========================================
