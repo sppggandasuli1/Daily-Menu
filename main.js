@@ -1580,7 +1580,7 @@ const menus = {
         }
     },
 
-      "2026-11-10": {
+      "2026-11-09": {
         title: "Rendang Ayam",
 
         image: "Image/Rendang Ayam.jpeg",
@@ -1612,7 +1612,7 @@ const menus = {
         }
     },
 
-      "2026-11-06": {
+      "2026-11-10": {
         title: "Kaki Naga",
 
         image: "Image/Kaki Naga.jpeg",
