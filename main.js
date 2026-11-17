@@ -1643,6 +1643,167 @@ const menus = {
             }
         }
     },
+
+    "2026-11-11": {
+        title: "Ayam Goreng Ketumber",
+
+        image: "Image/Ayam Goreng Ketumbar.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Goreng Ketumbar",
+            "Tempe Tepung",
+            "Tumis Wortel Putren",
+            "Susu",
+            "Kelengkeng"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "689 kkal",
+                protein: "33,9 g",
+                Lemak: "24,8 g",
+                Karbohidrat: "83 g",
+                Serat: "3,5 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "562,5 kkal",
+                protein: "31,3 g",
+                Lemak: "24,6 g",
+                Karbohidrat: "55,4 g",
+                Serat: "2,9 g"
+            }
+        }
+    },
+
+     "2026-11-12": {
+        title: "Cuanki Ayam",
+
+        image: "Image/Cuanki Ayam.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Cuanki Ayam",
+            "Tahu Steam",
+            "Pokcoy Rebus",
+            "Jeruk"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "606 kkal",
+                protein: "24,8 g",
+                Lemak: "18,3 g",
+                Karbohidrat: "85,1 g",
+                Serat: "4,4 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "485,2 kkal",
+                protein: "22,6 g",
+                Lemak: "18,1 g",
+                Karbohidrat: "58,3 g",
+                Serat: "3,9 g"
+            }
+        }
+    },
+
+    "2026-11-13": {
+        title: "Steak Ayam",
+
+        image: "Image/Steak Ayam.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Steak Ayam",
+            "Edamame",
+            "Saus BBQ",
+            "Semangka"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "627,3 kkal",
+                protein: "30,7 g",
+                Lemak: "18,3 g",
+                Karbohidrat: "85,1 g",
+                Serat: "4,4 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "485,2 kkal",
+                protein: "22,6 g",
+                Lemak: "18,1 g",
+                Karbohidrat: "58,3 g",
+                Serat: "3,9 g"
+            }
+        }
+    },
+
+     "2026-11-16": {
+        title: "Ayam Goreng Bawang Putih",
+
+        image: "Image/Ayam Goreng Bawang Putih.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Ayam Goreng Bawang Putih",
+            "Tahu Crispy",
+            "Tumis Sawi Putih+Wortel",
+            "Salad Buah"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "689,8 kkal",
+                protein: "26,5 g",
+                Lemak: "22,8 g",
+                Karbohidrat: "94,5 g",
+                Serat: "3,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "583,8 kkal",
+                protein: "24,4 g",
+                Lemak: "22,6 g",
+                Karbohidrat: "70,2 g",
+                Serat: "3,3 g"
+            }
+        }
+    },
+
+    "2026-11-17": {
+        title: "Chicken Katsu ",
+
+        image: "Image/Chicken Katsu.jpeg",
+
+        foods: [
+            "Nasi Putih",
+            "Chicken Katsu",
+            "Tahu Bakso",
+            "Tumis Kol+Wortel",
+            "Kelengkeng"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "619,1 kkal",
+                protein: "28,1 g",
+                Lemak: "21,8 g",
+                Karbohidrat: "77,1 g",
+                Serat: "4,1 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "515,1 kkal",
+                protein: "26,2 g",
+                Lemak: "21,6 g",
+                Karbohidrat: "54,2 g",
+                Serat: "3,8 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1651,7 +1812,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-11-10T00:00:00");
+    new Date("2026-11-17T00:00:00");
 
 
 // ========================================
