@@ -1776,7 +1776,7 @@ const menus = {
     "2026-11-17": {
         title: "Chicken Katsu ",
 
-        image: "Image/Chicken Katsu.jpeg",
+        image: "Image/Chicken Katsu (2).jpeg",
 
         foods: [
             "Nasi Putih",
