@@ -1804,6 +1804,38 @@ const menus = {
             }
         }
     },
+
+    "2026-11-18": {
+        title: "Roti Cheese Cream",
+
+        image: "Image/Roti Cheese Cream.jpeg",
+
+        foods: [
+            "Roti Cheese Cream",
+            "Telur Goreng",
+            "Bubur Kacang Hijau",
+            "Bakwan Sayur",
+            "Anggur"
+        ],
+
+        nutrition: {
+            "Porsi Besar": {
+                energi: "601,2 kkal",
+                protein: "21 g",
+                Lemak: "19 g",
+                Karbohidrat: "87,8 g",
+                Serat: "7,8 g"
+            },
+
+            "Porsi Kecil": {
+                energi: "560,5 kkal",
+                protein: "19,5 g",
+                Lemak: "17,4 g",
+                Karbohidrat: "82,8 g",
+                Serat: "7,4 g"
+            }
+        }
+    },
 };
 
 // ========================================
@@ -1812,7 +1844,7 @@ const menus = {
 
 // September 1, 2026
 let currentDate =
-    new Date("2026-11-17T00:00:00");
+    new Date("2026-11-18T00:00:00");
 
 
 // ========================================
